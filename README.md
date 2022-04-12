@@ -7,9 +7,9 @@ Tech stack
 <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled components&logoColor=black"><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=black"><img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=Sentry&logoColor=black"><img src="https://img.shields.io/badge/SweetAlert2-362D59?style=for-the-badge&logo=SweetAlert2&logoColor=black">
-![badge](https://img.shields.io/badge/React-blue) ![badge](https://img.shields.io/badge/JavaScript-orange)
+
 <br>
 SNS list
 <br>
-<a href="https://fatchoi.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-violet"/></a>
+<a href="https://fatchoi.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-362D59?style=for-the-badge&logo=Tistory&logoColor=violet"><img src="https://img.shields.io/badge/Tistory-violet"/></a>
 
