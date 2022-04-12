@@ -3,5 +3,5 @@
 Tech stack
 ![badge](https://img.shields.io/badge/React-blue) ![badge](https://img.shields.io/badge/JavaScript-orange)
 SNS list
-! <a href="https://fatchoi.tistory.com" target="_blank"><img src="https://img.shields.io/badge/badgeblog-violet?style=flat-square&logo=블로그&logoColor=white"/></a>
+! <a href="https://fatchoi.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-violet?style=flat-square&logo=블로그&logoColor=white"/></a>
 
