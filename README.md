@@ -6,5 +6,5 @@ Tech stack
 <br>
 SNS list
 <br>
-! <a href="https://fatchoi.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-violet?style=flat-square&logo=블로그&logoColor=white"/></a>
+<a href="https://fatchoi.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-violet"/></a>
 
