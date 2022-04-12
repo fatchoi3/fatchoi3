@@ -3,4 +3,4 @@
 Tech stack
 ![badge](https://img.shields.io/badge/React-blue) ![badge](https://img.shields.io/badge/JavaScript-orange)
 SNS list
-![badge](https://img.shields.io/badge/blog-violet?link=https://fatchoi.tistory.com)
+! <a href="https://fatchoi.tistory.com" target="_blank">[badge](https://img.shields.io/badge/blog-violet)
