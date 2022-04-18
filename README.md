@@ -35,5 +35,5 @@
 
 ### 📩 Contacts
 <p>
-<a href="https://fatchoi.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-violet?style=for-the-badge></a>
+<a href="https://fatchoi.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-violet?logo=Tistory&logoColor=violet"></a>
 
