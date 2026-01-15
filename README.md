@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Fatchoi!%20&animation=fadeIn&fontAlignY=28)
 
-### 💫 Hi there! 만드는 즐거움에 푹 빠진 개발자, 종현입니다! 👋
+### Hi there! 만드는 즐거움에 푹 빠진 개발자, 종현입니다! 
 
 ---
 
@@ -40,33 +40,3 @@
 [![Blog Badge](https://img.shields.io/badge/Blog-your.blog.com-orange?style=flat&logo=blogger)]([https://your.blog.com](https://velog.io/@iiooii1994/series))
 
 ---
-### 💻 Skills
-<p>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/React-87CEFA?style=flat&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/AWS S3-232F3E?style=flat&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS cloudfront-232F3E?style=flat&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS route53-232F3E?style=flat&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=black"> 
-</p>
-
-### 🛠 Tools
-<p>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-48A842?style=flat-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-</p>
-
-### 📩 Contacts
-<p>
-<a href="https://fatchoi.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-violet?logo=Tistory&logoColor=violet"></a>
-
