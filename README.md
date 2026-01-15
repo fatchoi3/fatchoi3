@@ -36,7 +36,7 @@
 ### 📞 Contact
 궁금한 점이 있거나 같이 재밌는 프로젝트를 만들고 싶으시다면 언제든 편하게 연락 주세요!
 
-[![Gmail Badge](https://img.shields.io/badge/Email-your.email@gmail.com-red?style=flat&logo=gmail)](mailto:iiooii1994@gmail.com) 
-[![Blog Badge](https://img.shields.io/badge/Blog-your.blog.com-orange?style=flat&logo=blogger)]([https://your.blog.com](https://velog.io/@iiooii1994/series))
+[![Gmail Badge](https://img.shields.io/badge/Email-iiooii1994@gmail.com-red?style=flat&logo=gmail)](mailto:iiooii1994@gmail.com) 
+[![Blog Badge](https://img.shields.io/badge/Blog-velog.io/@iiooii1994/series-orange?style=flat&logo=blogger)]([velog.io/@iiooii1994/series](https://velog.io/@iiooii1994/series))
 
 ---
